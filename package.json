@@ -1,0 +1,10 @@
+{
+  "name": "ai-agent-hub",
+  "version": "1.0.0",
+  "description": "Agent hub backend prototype",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.6.8"
+  }
+}
